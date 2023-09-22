@@ -91,9 +91,9 @@ Distributed under the CC-BY-SA-4.0: Creative Commons Attribution Share Alike 4.0
 GitHub: [@Mysftz](https://github.com/Mysftz) &nbsp;&middot;&nbsp; Portfolio: [Website](https://mysftz.github.io) &nbsp;&middot;&nbsp; LinkedIn: [@lrgtomaszewski](https://www.linkedin.com/in/lrgtomaszewski/) &nbsp;&middot;&nbsp; Instagram: [@Mysftz](https://www.instagram.com/mysftz/) &nbsp;&middot;&nbsp; Twitter: [@MysftzUK](https://twitter.com/MysftzUK)
 </div>
 
-[contributors-shield]: https://img.shields.io/github/contributors/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report-report.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report-report.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report-report.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report-report.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report-report.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/mysftz/applications-of-evolutionary-algorithms-in-bioinformatics-report.svg?style=for-the-badge
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555
